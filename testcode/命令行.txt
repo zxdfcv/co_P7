@@ -1,0 +1,2 @@
+java -jar Mars.jar dh nc mc CompactDataAtZero a dump 0x4180-0x6ffc HexText handlercode
+java -jar Mars.jar db nc mc CompactDataAtZero a dump 0x4180-0x6ffc HexText handlerCode.txt test.asm

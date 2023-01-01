@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/10791/co_P7/tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="22" />
+   <wvobject fp_name="/tb/macroscopic_pc" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">macroscopic_pc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">macroscopic_pc[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/i_inst_addr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">i_inst_addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i_inst_addr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/i_inst_rdata" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">i_inst_rdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i_inst_rdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/m_data_addr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">m_data_addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">m_data_addr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/m_data_rdata" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">m_data_rdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">m_data_rdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/m_data_wdata" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">m_data_wdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">m_data_wdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/m_data_byteen" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">m_data_byteen[3:0]</obj_property>
+      <obj_property name="ObjectShortName">m_data_byteen[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/m_int_addr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">m_int_addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">m_int_addr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/m_int_byteen" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">m_int_byteen[3:0]</obj_property>
+      <obj_property name="ObjectShortName">m_int_byteen[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/m_inst_addr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">m_inst_addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">m_inst_addr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/w_grf_we" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">w_grf_we</obj_property>
+      <obj_property name="ObjectShortName">w_grf_we</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/w_grf_addr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">w_grf_addr[4:0]</obj_property>
+      <obj_property name="ObjectShortName">w_grf_addr[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/w_grf_wdata" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">w_grf_wdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">w_grf_wdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/w_inst_addr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">w_inst_addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">w_inst_addr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/interrupt" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">interrupt</obj_property>
+      <obj_property name="ObjectShortName">interrupt</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/i" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/fixed_addr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">fixed_addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">fixed_addr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/fixed_wdata" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">fixed_wdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">fixed_wdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/timer1IRQ" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">timer1IRQ</obj_property>
+      <obj_property name="ObjectShortName">timer1IRQ</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/timer2IRQ" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">timer2IRQ</obj_property>
+      <obj_property name="ObjectShortName">timer2IRQ</obj_property>
+   </wvobject>
+</wave_config>
